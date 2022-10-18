@@ -1,0 +1,90 @@
+body {
+    background-color: rgba(77, 179, 197, 0.336);
+}
+
+.startPhoto {
+    width: 25%;
+    display: block;
+    margin: auto;
+    box-shadow:0 0 20px #555;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.endPhoto {
+    width: 25%;
+    display: block;
+    margin: auto;
+    box-shadow:0 0 20px #555;
+    margin-bottom: 20px;
+}
+
+p.start {
+    font-size: 25px;
+    text-align: justify;
+    margin: 0 auto;
+    width: 50%;
+    text-indent: 2cm;
+}
+
+p.connection, ul {
+    font-size: 25px;
+    text-align: justify;
+    width: 350px;
+    margin: 0 auto;
+}
+
+p.midle{
+    font-size: 30px;
+    text-align: justify;
+    margin: 0 auto;
+    width: 50%;
+    text-indent: 1cm;
+}
+
+p.midle, ol{
+    font-size: 25px;
+    text-align: justify;
+    margin: 0 auto;
+    width: 50%;
+}
+
+p.end {
+    font-size: 25px;
+    text-align: justify;
+    margin: 0 auto;
+    width: 50%;
+    text-indent: 1cm;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.str{
+    border: 2px solid rgba(40, 21, 202, 0.904);
+    width: 50%;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 15px 15px 0 0;
+}
+
+.en{
+    border: 2px solid rgba(40, 21, 202, 0.904);
+    width: 50%;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 0 0 15px 15px;
+    margin-top: 20px;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    margin: 20px auto;
+    border: 2px solid rgba(40, 21, 202, 0.904);
+    width: 50%;
+    padding: 5px;
+    border-radius: 15px;
+}
